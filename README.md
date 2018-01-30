@@ -1,0 +1,2 @@
+# MagicSpec
+spec repository
